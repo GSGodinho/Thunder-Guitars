@@ -1,0 +1,80 @@
+.Corpo_principal
+{
+    text-align: center;
+}
+.Cabeçote
+{
+    color: #fff;
+    text-align: center;
+    background-image: url(../img/Fundo-Produtos.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 12% 2%;
+}
+.Corpo_principal-titulo
+{
+    font-size: 8vmax;
+    display: inline-block;
+    margin: 2%;
+}
+.Corpo_principal-subtitulo
+{
+    font-size: 4vmax;
+    margin: 2%;
+    font-weight: 200;
+
+}
+.Produtos
+{
+    margin: 10% 0 ;
+}
+.Produtos-produto h2
+{
+    font-size: 1vw;
+    padding: 1%;
+}
+.Produtos-produto{
+    max-width: 15%;
+    margin: auto;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.Produtos-produto img{
+    width: 80%;
+}
+
+.Produtos-produto-botao button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+    width: 100%;
+    cursor: pointer;
+}
+.Produtos-produto-botao
+{
+    margin-bottom: 0;
+}
+
+.Produtos-produto-botao :hover{
+    opacity: 0.7;
+}
+.Produtos-produto .desc
+{
+    display: inline;
+    font-size: 1vw;
+}
+
+.Produtos-produto .preco{
+    color: #ff1447;
+    font-size: 22px;
+}
+
+.Produtos{
+    display: flex;
+}

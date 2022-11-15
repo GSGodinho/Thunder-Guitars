@@ -1,0 +1,49 @@
+.cabeçalho_principal
+{
+    background-color: rgba(0, 0, 0, 0.95);
+    display: flex;
+}
+.menu_navegacao
+{
+   width: 80%;
+}
+.menu_navegação-lista
+{
+    margin: 0px;
+    padding: 10px;
+
+    color: #fff;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    list-style:none;
+
+    font-weight: 800;
+}
+.menu_navegação-lista-item
+{
+    font-size: 24px;
+}
+.menu_navegação-lista-item a
+{
+    padding: 20px 0;
+
+    display: inline-block;
+
+    text-transform: uppercase;
+
+    font-weight: 700;
+}
+.menu_navegação-lista-item a:hover
+{
+    color: #777;
+}
+.Marca
+{
+    display: flex;
+    color: #fff;
+    position: unset;
+}

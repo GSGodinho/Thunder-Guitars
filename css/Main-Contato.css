@@ -1,0 +1,85 @@
+.Corpo_principal
+{
+    background-image: url(../img/contato-gobanners.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 1%;
+}
+.Corpo_principal-titulo
+{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+    background-color: rgba(0, 0, 0,0.15);
+}
+.Formulario-de-contato
+{
+    margin: 5% auto;
+    width: 50%;
+    background-color: rgba(240, 248, 255,1);
+
+    border: 15px solid rgba(240, 248, 255, 0.1);
+    border-radius: 2%;
+}
+.Formulario-de-contato-Titulo
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 00;
+}
+.Formulario-de-contato-linha
+{
+    margin: 5% 0;
+}
+.Formulario-de-contato-linha-input
+{
+    display: flex;
+    width: 75%;
+    height: 4vh;
+    margin: 0 auto;
+    border: 1px solid #b4b4b4 ;
+}
+.Formulario-de-contato-linha-select
+{
+    display: inline;
+    width: auto;
+    margin-left: 30px;
+    height: 4vh;
+    border: 1px solid #b4b4b4 ;
+}
+.Formulario-de-contato-submit
+{
+    text-align: center;
+    margin: auto;
+}
+.Formulario-de-contato-submit-input
+{
+    border:1px solid #c8c8c8 ;
+    box-shadow: 5px 5px 5px #7f7f7f;
+
+    width: 30%;
+    padding: 1% 0%;
+}
+.Formulario-de-contato-submit-input:hover
+{
+    background-color: #b4b4b4;
+    border:1px solid #b4b4b4;
+    box-shadow:none;
+}
+
+.Formulario-de-contato-linha-etiqueta
+{
+    font-size: 1.52vmax;
+    font-weight: 500;
+    margin: 5px 20px;
+}
+#Mensagem
+{
+    display: flex;
+    width: 75%;
+    height: 12vh;
+    margin: 0 auto;
+    border:1px solid rgb(200, 200, 200) ;
+}

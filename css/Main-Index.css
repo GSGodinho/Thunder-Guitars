@@ -1,0 +1,24 @@
+
+.chamada_principal
+{
+    color: #fff;
+    text-align: center;
+    background-image: url(../img/Fundo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 13% 2%;
+}
+.chamada_principal-titulo
+{
+    font-size: 8vmax;
+    display: inline-block;
+    margin: 2%;
+}
+.chamada_principal-subtitulo
+{
+    font-size: 4vmax;
+    margin: 2%;
+    font-weight: 200;
+
+}
