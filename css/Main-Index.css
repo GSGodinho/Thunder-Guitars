@@ -11,13 +11,13 @@
 }
 .chamada_principal-titulo
 {
-    font-size: 8vmax;
+    font-size: 9vw;
     display: inline-block;
     margin: 2%;
 }
 .chamada_principal-subtitulo
 {
-    font-size: 4vmax;
+    font-size: 4.5vw;
     margin: 2%;
     font-weight: 200;
 

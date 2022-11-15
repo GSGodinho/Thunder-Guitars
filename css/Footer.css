@@ -4,7 +4,8 @@ footer
     display: flex;
     color: #333;
     padding-top: 5px;
-    font-size: 90%;
+    font-size: 1vw;
+
 }
 
 .Footer-Titulos
@@ -13,7 +14,7 @@ footer
 }
 .Footer-Text
 {
-    font-size: 10vw;
+    font-size: 1vw;
 }
     
 .Footer-Lista
