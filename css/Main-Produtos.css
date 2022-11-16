@@ -14,13 +14,13 @@
 }
 .Corpo_principal-titulo
 {
-    font-size: 8vmax;
+    font-size: 8rem;
     display: inline-block;
     margin: 2%;
 }
 .Corpo_principal-subtitulo
 {
-    font-size: 4vmax;
+    font-size: 4rem;
     margin: 2%;
     font-weight: 200;
 
@@ -31,7 +31,7 @@
 }
 .Produtos-produto h2
 {
-    font-size: 1vw;
+    font-size: 1.5rem;
     padding: 1%;
 }
 .Produtos-produto{
@@ -52,7 +52,7 @@
     padding: 10px;
     text-align: center;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 1rem;
     width: 100%;
     cursor: pointer;
 }
@@ -72,7 +72,7 @@
 
 .Produtos-produto .preco{
     color: #ff1447;
-    font-size: 22px;
+    font-size: 1rem;
 }
 
 .Produtos{

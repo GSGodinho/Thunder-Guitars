@@ -10,7 +10,7 @@
 {
     color: rgb(255, 255, 255);
     text-align: center;
-    font-size: 50px;
+    font-size: 4rem;
     margin: 0;
     background-color: rgba(0, 0, 0,0.15);
 }
@@ -26,7 +26,7 @@
 .Formulario-de-contato-Titulo
 {
     text-align: center;
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 00;
 }
 .Formulario-de-contato-linha
@@ -71,7 +71,7 @@
 
 .Formulario-de-contato-linha-etiqueta
 {
-    font-size: 1.52vmax;
+    font-size: 1.52rem;
     font-weight: 500;
     margin: 5px 20px;
 }

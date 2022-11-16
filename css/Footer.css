@@ -1,23 +1,29 @@
-footer
-{
-    background-color: #111;
-    display: flex;
-    color: #333;
-    padding-top: 5px;
-    font-size: 1vw;
 
-}
 
 .Footer-Titulos
 {
     color: #fff;
+    font-size: 1.2rem;
 }
 .Footer-Text
 {
-    font-size: 1vw;
+    font-size: 1rem;
 }
+.Footer-Subtitulos
+{
+    color: #bbb;
     
+}
 .Footer-Lista
 {
     margin: auto;
+}
+footer
+{
+    background-color: #111;
+    display: flex;
+    padding-top: 5px;
+    font-size: 1rem;
+    color: #777;
+
 }
